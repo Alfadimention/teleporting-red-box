@@ -1,0 +1,17 @@
+.tiny {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+}
+
+.huge {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+}
